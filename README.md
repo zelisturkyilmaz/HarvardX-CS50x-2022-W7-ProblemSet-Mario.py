@@ -6,7 +6,7 @@
 
 ### Assignment and Requirements:
 Write and execute the program that recreates Nintendo’s Super Mario Brothers' pyramids in Python, using hashes (#) for bricks.\
-Program should allow the user to decide how tall the pyramids should be by prompting them for a positive integer between 1 and 8, inclusive.\
+Program should allow the user to decide how tall the pyramids should be by prompting them for a positive integer between 1 and 8, inclusive.
 
 Here’s how the program might work if the user inputs 8 when prompted:
 
